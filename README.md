@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Lucas Freitas de Queiroz. 👋
--  Estou interessado em me tornar um desenvolvedor front-end.
--  Atualmente estou estudando HTML5 e CSS3.
+-  Estou interessado em me tornar um desenvolvedor back-end PHP.
+-  Atualmente estou estudando HTML e CSS.
 -  Estou disposto a adquirir muito conhecimento da área e colaborar em vários projetos.
 
 <!---
