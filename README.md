@@ -1,7 +1,6 @@
 - 👋 Olá, meu nome é Lucas Freitas de Queiroz. 👋
--  Estou interessado em me tornar um desenvolvedor back-end PHP.
--  HTML, CSS, JAVASCRIPT, NODEJS, C++, PHP
--  Estou disposto a adquirir muito conhecimento da área e colaborar em vários projetos.
+-  Desenvolvedor back-end.
+-  HTML, CSS, JAVASCRIPT, NODEJS, C++, PHP, JAVA
 
 <!---
 LucasQueiroz667/LucasQueiroz667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
