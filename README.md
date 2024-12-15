@@ -1,5 +1,4 @@
 - 👋 Olá, meu nome é Lucas Freitas de Queiroz. 👋
--  Desenvolvedor back-end.
 -  HTML, CSS, JAVASCRIPT, NODEJS, C++, PHP, JAVA
 
 <!---
